@@ -1,0 +1,44 @@
+{
+    "name": "Needle.XR.ARSimulation.Editor",
+    "references": [
+        "Needle.XR.ARSimulation",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.ARSubsystems.Editor",
+        "Unity.XR.Management.Editor",
+        "Unity.XR.Management",
+        "Unity.XR.ARFoundation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.management",
+            "expression": "3.2.10",
+            "define": "UNITY_XR_MANAGEMENT_3_2_10_OR_ABOVE"
+        },
+        {
+            "name": "com.unity.xr.management",
+            "expression": "4.0.1",
+            "define": "UNITY_XR_MANAGEMENT_4_0_1_OR_ABOVE"
+        },
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "UNITY_NEW_INPUT_SYSTEM"
+        },
+        {
+            "name": "com.unity.xr.arsubsystems",
+            "expression": "4.0.0-preview",
+            "define": "UNITY_ARSUBSYSTEMS_4_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}

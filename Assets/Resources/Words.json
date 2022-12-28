@@ -1,0 +1,273 @@
+{
+  "Parts": [
+    {
+      "PartName": "Skeleton",
+      "PartItem": [
+        {
+          "Title": "Skull",
+          "Description": "This is the skeletal structure of the head. The human skull is formed by 23 bones. The human skull is easily malleable. Immediately after birth, a child's skull can be altered."
+        },
+        {
+          "Title": "Teeth",
+          "Description": "Bone formations in the human mouth. No two teeth are the same in a human. Each person's teeth are unique, like fingerprints. Many problems with teeth are related to heart disease.."
+        },
+        {
+          "Title": "Jaw",
+          "Description": "This is a stationary paired bone. Consuming three or more sodas per day increases the likelihood of developing cavities and tooth loss by 62%. Instead of soda, drink water."
+        },
+        {
+          "Title": "Breastbone",
+          "Description": "It connects to the ribs through cartilage and forms the front part of the rib cage, helping to protect the heart, lungs, and large blood vessels from injury."
+        },
+        {
+          "Title": "Occipital bone",
+          "Description": "It connects the scapula to the breastbone and strengthens the shoulder girdle, protecting the brachial plexus. It transmits physical impulses from the upper limb to the axial skeleton. It can withstand a load of 800 kg."
+        },
+        {
+          "Title": "Occipital bone",
+          "Description": "It connects the scapula to the breastbone and strengthens the shoulder girdle, protecting the brachial plexus. It transmits physical impulses from the upper limb to the axial skeleton. It can withstand a load of 800 kg."
+        },
+        {
+          "Title": "Scapula",
+          "Description": "A flat, triangular bone that lies against the back of the rib cage. Only 3 muscles are responsible for the movement of the scapula."
+        },
+        {
+          "Title": "Scapula",
+          "Description": "A flat, triangular bone that lies against the back of the rib cage. Only 3 muscles are responsible for the movement of the scapula."
+        },
+        {
+          "Title": "Humerus",
+          "Description": "The humerus is a long bone in the arm that runs from the shoulder to the elbow. It connects the scapula and the two bones of the lower arm, the ulna and radius, and is divided into three sections."
+        },
+        {
+          "Title": "Humerus",
+          "Description": "The humerus is a long bone in the arm that runs from the shoulder to the elbow. It connects the scapula and the two bones of the lower arm, the ulna and radius, and is divided into three sections."
+        },
+        {
+          "Title": "Ulna",
+          "Description": "The ulna is a long bone located in the forearm that extends from the elbow to the wrist. In quadrupeds, the ulna is the main weight-bearing bone."
+        },
+        {
+          "Title": "Ulna",
+          "Description": "The ulna is a long bone located in the forearm that extends from the elbow to the wrist. In quadrupeds, the ulna is the main weight-bearing bone."
+        },
+        {
+          "Title": "Radius",
+          "Description": "The radius is a paired bone in the forearm, located next to the ulna. There are approximately two hundred bones in the human body. It is not possible to give an exact number, as skeletal abnormalities such as extra ribs are quite common today."
+        },
+        {
+          "Title": "Radius",
+          "Description": "The radius is a paired bone in the forearm, located next to the ulna. There are approximately two hundred bones in the human body. It is not possible to give an exact number, as skeletal abnormalities such as extra ribs are quite common today."
+        },
+        {
+          "Title": "Capitate bone",
+          "Description": "The capitate bone is one of the bones in the hand. It is a short, rounded bone that is part of the wrist, or carpus. There are people who are equally skilled with both their right and left hand. They are called ambidextrous. The hand consists of 27 bones, 29 joints, and 123 ligaments."
+        },
+        {
+          "Title": "Capitate bone",
+          "Description": "The capitate bone is one of the bones in the hand. It is a short, rounded bone that is part of the wrist, or carpus. There are people who are equally skilled with both their right and left hand. They are called ambidextrous. The hand consists of 27 bones, 29 joints, and 123 ligaments."
+        },
+        {
+          "Title": "Phalanges",
+          "Description": "Short tubular bones forming the skeleton of the fingers. No person on the planet has straight fingers. During a person's life, the fingers are bent 25 million times."
+        },
+        {
+          "Title": "Phalanges",
+          "Description": "Short tubular bones forming the skeleton of the fingers. No person on the planet has straight fingers. During a person's life, the fingers are bent 25 million times."
+        },
+        {
+          "Title": "Pelvis",
+          "Description": "Provides attachment to the trunk of the lower limbs and also serves as a support and bony cavity for several vital organs. The pelvis is divided into two parts: the upper and lower, which is narrower."
+        },
+        {
+          "Title": "Femur",
+          "Description": "The largest tubular bone in the human body. The body of the bone has a cylindrical shape and is slightly bent forward. The proximal epiphysis has the head of the femur, which has a joint surface that serves for articulation with the acetabular notch."
+        },
+        {
+          "Title": "Femur",
+          "Description": "The largest tubular bone in the human body. The body of the bone has a cylindrical shape and is slightly bent forward. The proximal epiphysis has the head of the femur, which has a joint surface that serves for articulation with the acetabular notch."
+        },
+        {
+          "Title": "Tibia",
+          "Description": "The tibia, also known as the shin bone, is a large bone located medially in the leg. It is the second largest bone in the human body (after the femur) and the thickest part of the leg. The tibia connects to the femur at the knee joint and to the fibula at the tibiofibular joint. It also connects to the foot through the ankle joint."
+        },
+        {
+          "Title": "Tibia",
+          "Description": "The tibia, also known as the shin bone, is a large bone located medially in the leg. It is the second largest bone in the human body (after the femur) and the thickest part of the leg. The tibia connects to the femur at the knee joint and to the fibula at the tibiofibular joint. It also connects to the foot through the ankle joint."
+        },
+        {
+          "Title": "Fibula",
+          "Description": "The fibula, also known as the calf bone, is a long, thin, tubular bone in the leg. It consists of a body and two ends - the upper and lower. The body of the fibula has a triangular prism-like shape. Until the age of 21 and 23 for women and men, respectively, the skeleton gradually becomes ossified."
+        },
+        {
+          "Title": "Fibula",
+          "Description": "The fibula, also known as the calf bone, is a long, thin, tubular bone in the leg. It consists of a body and two ends - the upper and lower. The body of the fibula has a triangular prism-like shape. Until the age of 21 and 23 for women and men, respectively, the skeleton gradually becomes ossified."
+        },
+        {
+          "Title": "Heel bone",
+          "Description": "It has an elongated shape and is compressed from the sides. It consists of the body and the heel bone protrusion behind. It is noteworthy that on hot sand, women step on their heels, while men move only on their heels."
+        },
+        {
+          "Title": "Heel bone",
+          "Description": "It has an elongated shape and is compressed from the sides. It consists of the body and the heel bone protrusion behind. It is noteworthy that on hot sand, women step on their heels, while men move only on their heels."
+        },
+        {
+          "Title": "Talus bone",
+          "Description": "Forming the lower part of the ankle joint through its connection with the tibia and fibula bones. During a person's lifetime, they circumnavigate the Earth 4 times."
+        },
+        {
+          "Title": "Talus bone",
+          "Description": "Forming the lower part of the ankle joint through its connection with the tibia and fibula bones. During a person's lifetime, they circumnavigate the Earth 4 times."
+        },
+        {
+          "Title": "Phalanges",
+          "Description": "Being an important part of the locomotor apparatus, they withstand the weight of the body during movement together with the foot, move it and help maintain balance when changing the position of the center of gravity."
+        },
+        {
+          "Title": "Phalanges",
+          "Description": "Being an important part of the locomotor apparatus, they withstand the weight of the body during movement together with the foot, move it and help maintain balance when changing the position of the center of gravity."
+        },
+        {
+          "Title": "Ribs",
+          "Description": "One of the paired curved flat bones running from the spine to the sternum and composing the thorax of vertebrates. In humans, there are normally 12 pairs of ribs."
+        },
+        {
+          "Title": "Ribs",
+          "Description": "One of the paired arched flat bones running from the spine to the sternum and forming the chest of vertebrates. Humans have 12 pairs of ribs in total."
+        },
+        {
+          "Title": "Coccyx",
+          "Description": "Part of the spine of terrestrial vertebrates, which ensures its connection with the pelvis. Almost all muscle chains pass through it."
+        },
+        {
+          "Title": "Spine",
+          "Description": "There are more than 120 muscles in the human spine. Humans and giraffes have the same number of vertebrae in their neck. The body of the lumbar vertebra can withstand a maximum weight of 1300 kg in an experiment."
+        }
+      ]
+    },
+    {
+      "PartName": "Veins",
+      "PartItem": [
+        {
+          "Title": "Subclavian artery",
+          "Description": "Every day, 3,000 circulations of blood occur through the human circulatory system. The length of the blood vessels ranges from 9,000 to 10,000 km. They can wrap around the earth several times."
+        },
+        {
+          "Title": "Arteries of the cardiovascular system",
+          "Description": "Inside the veins are special valves that hold the blood inside. The speed of blood flow through the blood vessels is 40 km/h. In 2009, blood vessels were made that fully functioned."
+        },
+        {
+          "Title": "Arteries of the cardiovascular system",
+          "Description": "Inside the veins are special valves that hold the blood inside. The speed of blood flow through the blood vessels is 40 km/h. In 2009, blood vessels were made that fully functioned."
+        },
+        {
+          "Title": "Femoral arteries",
+          "Description": "From which organs does blood flow through the veins? On its way to the heart, blood drained from the gastrointestinal tract moves through the esophageal vein, from the liver through the hepatic veins, from the kidneys through the renal veins, and from the upper limbs through the subclavian veins.."
+        },
+        {
+          "Title": "Pulmonary arteries",
+          "Description": "Why is venous blood dark in color? Blood in the veins becomes saturated with carbon dioxide and loses a significant amount of the oxygen it contains, causing its color to change from bright red to dark and bluish.."
+        },
+        {
+          "Title": "Heart",
+          "Description": "The heart of an average adult human makes about 2.5 billion beats in a lifetime. A newborn child has about one cup of blood."
+        }
+      ]
+    },
+    {
+      "PartName": "Stomach",
+      "PartItem": [
+        {
+          "Title": "Stomach and small intestine",
+          "Description": "The volume of an empty stomach is about 0.5 liters. After eating, it can increase to 4 liters. The length of the small intestine is from three to seven meters. The intestine produces fatigue hormones, so we feel sluggish after eating."
+        },
+        {
+          "Title": "Liver",
+          "Description": "About 100 liters of blood pass through the liver in 1 hour. This organ is 70% water. 10% of its mass is fat. The liver makes us think by cleaning toxins. It is these toxins that affect our mood, well-being, sleep and actions."
+        },
+        {
+          "Title": "Large intestine",
+          "Description": "The calmer a person is, the better their large intestine works. The small intestine is more than 6 meters long. The length of the entire digestive system from the mouth to the anus is 9 meters."
+        }
+      ]
+    },
+    {
+      "PartName": "Member",
+      "PartItem": [
+        {
+          "Title": "Kidneys",
+          "Description": "In a day, the kidneys filter up to 2,000 liters of blood. The cost of a kidney would start at 1,500,000 rubles. (No hint) The first artificial kidney was used in 1944."
+        },
+        {
+          "Title": "Genitals",
+          "Description": "Male genitalia may shrink due to smoking. And the reassuring size of a man's genitalia has nothing to do with the size of his feet, large fingers, or nose. Women, stop looking at hands and legs, it's all fairy tales!"
+        }
+      ]
+    },
+    {
+      "PartName": "Skin",
+      "PartItem": [
+        {
+          "Title": "Skin",
+          "Description": "The skin is the largest organ in the human body. The thinnest skin you have is on your eyelids. The thickest skin you have is on your feet. We lose 20 to 100 hairs per day. Every minute, the skin loses more than 30,000 dead cells."
+        }
+      ]
+    },
+    {
+      "PartName": "Muscles",
+      "PartItem": [
+        {
+          "Title": "Chest and abdominal muscles",
+          "Description": "There are no muscles in the chest itself, so you cannot make it firm with exercises. Muscles become flabby twice as slowly as they grow."
+        },
+        {
+          "Title": "Head muscles",
+          "Description": "In total, 25% of the total number of all muscles in the body are located on the face. That's why a person with a lively facial expression is a quarter bodybuilder. There are eight muscles in the tongue!"
+        },
+        {
+          "Title": "Arm muscles",
+          "Description": "With age, the overall body mass and strength decrease, that's why we get weaker as we age. But there is good news: muscles can be strengthened and increased at any age!"
+        },
+        {
+          "Title": "Arm muscles",
+          "Description": "With age, the overall body mass and strength decrease, that's why we get weaker as we age. But there is good news: muscles can be strengthened and increased at any age!"
+        },
+        {
+          "Title": "Leg muscles",
+          "Description": "To take just one step, we need to use around 200 muscles, one way or another. Few people know that after 40 years, the body begins to sharply lose muscle mass - up to 3% per year, and after 60 years - up to 5% and more."
+        },
+        {
+          "Title": "Leg muscles",
+          "Description": "To take just one step, we need to use around 200 muscles, one way or another. Few people know that after 40 years, the body begins to sharply lose muscle mass - up to 3% per year, and after 60 years - up to 5% and more."
+        }
+      ]
+    },
+    {
+      "PartName": "Brain",
+      "PartItem": [
+        {
+          "Title": "Brain",
+          "Description": "The size of the brain does not affect abilities. The brain does not tire. A person has about 70,000 thoughts per day. Mental work cannot tire the brain. The body wakes up first in the morning and then the brain. The brain is better able to understand a man's speech than a woman's."
+        }
+      ]
+    },
+    {
+      "PartName": "Lungs",
+      "PartItem": [
+        {
+          "Title": "Lungs",
+          "Description": "The human respiratory organs. The lungs are a large organ in the human body. On average, an adult person takes about 7.5-8.5 million breaths per year."
+        }
+      ]
+    },
+    {
+      "PartName": "Eyes",
+      "PartItem": [
+        {
+          "Title": "Eyes",
+          "Description": "A paired sensory organ of the visual system. Approximately one in twelve men are daltonic. Our eyes focus on about 50 things per second."
+        }
+      ]
+    }
+  ]
+}

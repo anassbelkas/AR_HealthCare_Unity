@@ -1,0 +1,35 @@
+{
+  "name": "com.needle.xr.arsimulation",
+  "displayName": "AR Simulation",
+  "version": "1.3.7",
+  "unity": "2019.2",
+  "description": "Provides Editor / Desktop Standalone integration for use with Unity's multi-platform XR API.\n=Supported Features=\n-Efficient Background Rendering\n-Plane Tracking\n-Touch Input\n-Pointcloud Detection\n-Image Tracking\n-Light Estimation\n-Anchors\n-Hit Testing\n-Meshing\n-CPU Image API",
+  "keywords": [
+    "xreditorsubsystem",
+    "ARFoundation",
+    "ARSimulation",
+    "simulation",
+    "editor",
+    "ar",
+    "augmented reality",
+    "xr"
+  ],
+  "author": {
+    "name": "Needle",
+    "email": "hi@needle.tools",
+    "url": "https://needle.tools"
+  },
+  "dependencies": {
+    "com.unity.xr.arsubsystems": "3.1.0-preview.2",
+    "com.unity.xr.management": "3.0.5",
+    "com.unity.xr.arfoundation": "3.0.1",
+    "com.unity.xr.legacyinputhelpers": "2.0.8"
+  },
+  "samples": [
+    {
+      "displayName": "Getting Started",
+      "description": "Examples for simulated Planes, Pointclouds, Camera Image, Image Tracking, AR Meshing",
+      "path": "Samples~/Getting Started"
+    }
+  ]
+}

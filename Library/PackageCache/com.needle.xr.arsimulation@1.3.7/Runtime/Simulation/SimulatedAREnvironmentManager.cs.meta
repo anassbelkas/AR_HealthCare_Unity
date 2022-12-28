@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d7c7dbe8ee98417fa5d311951c5fd23f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SceneOrPrefab: {instanceID: 0}
+  - EnvironmentCameraRT: {fileID: 8400000, guid: 1794a781d2bfe1d45b7a11ebf6195640,
+      type: 2}
+  - previousRealitySceneOrPrefab: {instanceID: 0}
+  - environmentCamera: {instanceID: 0}
+  - currentRealityPrefabInstance: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

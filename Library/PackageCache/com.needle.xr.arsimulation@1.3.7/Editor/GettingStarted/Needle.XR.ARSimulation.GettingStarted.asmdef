@@ -1,0 +1,18 @@
+{
+    "name": "Needle.XR.ARSimulation.GettingStarted",
+    "rootNamespace": "Needle.XR.ARSimulation.Installation",
+    "references": [
+        "Needle.XR.ARSimulation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

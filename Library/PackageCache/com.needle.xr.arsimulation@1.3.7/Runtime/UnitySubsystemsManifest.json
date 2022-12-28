@@ -1,0 +1,10 @@
+{
+  "name": "AR Simulation Plugin",
+  "version": "1.0.0",
+  "libraryName": "ARSimulationPlugin",
+  "meshings": [
+    {
+      "id": "arsimulation-meshing"
+    }
+  ]
+}
